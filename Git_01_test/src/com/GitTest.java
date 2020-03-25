@@ -7,4 +7,7 @@ public class GitTest {
     public void test(){
         System.out.println("水水水水水水水水水水水水水水水水水水");
     }
+    public void test2(){
+        System.out.println("ggggggggggggggggg");
+    }
 }
